@@ -1,0 +1,19 @@
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.exe
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.deps.json
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.runtimeconfig.json
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.runtimeconfig.dev.json
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.dll
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\bin\Debug\netcoreapp3.1\snake try 4.pdb
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.csprojAssemblyReference.cache
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4_MarkupCompile.cache
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4_MarkupCompile.lref
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.g.resources
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.csproj.CoreCompileInputs.cache
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.AssemblyInfoInputs.cache
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.AssemblyInfo.cs
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.dll
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.pdb
+C:\Users\emisch1114\source\repos\snake try 4\snake try 4\obj\Debug\netcoreapp3.1\snake try 4.genruntimeconfig.cache

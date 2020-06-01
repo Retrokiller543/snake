@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WNwAnINAz7GuzxB3x+wXuLKyQKZPGWdzoVIer/5h9Hw0sz5nm2uVI+e3E+mYY2vnyU0q/qShOj0dtP7JwYV6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emils\\source\\repos\\snake try 4\\snake try 4\\snake try 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emils\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
